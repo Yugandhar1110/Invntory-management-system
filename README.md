@@ -1,8 +1,19 @@
 # Invntory-management-system
-Inventory management system will helps to manage the details of products stock and sales of billings in a shop or a Supermarket
+This repository is having all the codes with json files for making an Inventory management system during ETG AI/ML Internship
 
-update the stocks of products in a records
-that records we need to convert to json format and update to the json.dumps
-again we need to read the records from the records.json file
-we need to give here how much total products we buy and according to that product id and its quantity it wil give the total billing of the purchased products
-after the billing it will update the records with existing stocks.
+# I have made an inventory management system which is working on NoSQL based database
+1. I have used JSON file system for it
+2. Purchase can be done
+3. Billing can be done
+4. Updating the JSON file with current stock
+
+We have added 5 features per product
+1. Product_id
+2. Product name
+3. Price
+4. quan
+5. Product type
+
+My Project can do the following things
+1. Generate Bills
+2. Update inventory with existing stocks
