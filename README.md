@@ -7,6 +7,7 @@ This repository is having all the codes with json files for making an Inventory 
 3. Billing can be done
 4. Updating the JSON file with current stock
 
+# Features
 We have added 5 features per product
 1. Product_id
 2. Product name
