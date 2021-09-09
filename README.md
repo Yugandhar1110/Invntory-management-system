@@ -15,6 +15,7 @@ We have added 5 features per product
 4. quan
 5. Product type
 
+
 My Project can do the following things
 1. Generate Bills
-2. Update inventory with existing stocks
+2. Update inventory with existing stocks after purchasing
